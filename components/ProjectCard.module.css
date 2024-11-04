@@ -7,9 +7,6 @@
     text-align: center;
   }
   
-  .image {
-    border-radius: 4px;
-  }
   
   .card h3 {
     margin-top: 15px;
@@ -22,14 +19,3 @@
     color: #555;
   }
   
-  .card a {
-    display: inline-block;
-    margin-top: 10px;
-    color: #0070f3;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  .card a:hover {
-    text-decoration: underline;
-  }

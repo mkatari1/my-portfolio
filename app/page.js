@@ -5,9 +5,10 @@ import styles from './page.module.css';
 export default function HomePage() {
   return (
     <section className={styles.hero}>
-      <h1>Welcome to My Portfolio</h1>
-      <p>I am a [Your Profession], passionate about [Your Passion].</p>
-      <Image src="/images/profile.jpg" alt="Profile Picture" width={200} height={200} />
+      <h1>Mihir Kataria</h1>
+      <p>Computer Science Student at Arizona State University</p>
+      <Image src="/images/profile.jpg" alt="Profile Picture" width={450} height={450} />
     </section>
   );
 }
+
