@@ -1,0 +1,16 @@
+/* styles/Projects.module.css */
+.projects {
+    padding: 40px 20px;
+}
+
+.projects h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}

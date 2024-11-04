@@ -1,0 +1,15 @@
+/* app/page.module.css */
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
